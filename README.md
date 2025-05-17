@@ -1,2 +1,2 @@
-# projetc-demo
+# project-demo
 This is my first repository
